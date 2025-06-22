@@ -98,8 +98,8 @@ To perform a complete end-to-end data analysis on retail banking customers and c
 ## 👩‍💻 Author
 
 **Rishita Singh**  
-`Data Analyst | Business Insights | Dashboard Developer`  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourname)  
+`Data Analyst | Business Insights | Product Analayst
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rishita-singh-3b139a259/)  
 📫 `your.email@example.com`
 
 
